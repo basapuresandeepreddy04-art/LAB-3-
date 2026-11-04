@@ -4,7 +4,7 @@
 **Registration number:** 252U1R9016
 **Section:** CSE GEN AI 304 2A 
 
-**Live link:** https://YOUR-APP-NAME.onrender.com  
+**Live link:** https://lab-3-k7tx.onrender.com  
 (If not deployed, write the reason here and rely on the Postman screenshots below.)
 
 ## How to run
