@@ -1,7 +1,9 @@
 # Lab 3: REST API, query parameters, validation, debugging
 
 **Name:** SANDEEP REDDY BASAPURE 
+
 **Registration number:** 252U1R9016
+
 **Section:** CSE GEN AI 304 2A 
 
 **Live link:** https://lab-3-k7tx.onrender.com  
