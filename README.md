@@ -1,8 +1,8 @@
 # Lab 3: REST API, query parameters, validation, debugging
 
-**Name:** YOUR NAME  
-**Registration number:** YOUR REG NO  
-**Section:** YOUR SECTION
+**Name:** SANDEEP REDDY BASAPURE 
+**Registration number:** 252U1R9016
+**Section:** CSE GEN AI 304 2A 
 
 **Live link:** https://YOUR-APP-NAME.onrender.com  
 (If not deployed, write the reason here and rely on the Postman screenshots below.)
